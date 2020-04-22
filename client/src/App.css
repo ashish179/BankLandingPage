@@ -1,0 +1,136 @@
+.form .form-group {
+  margin: 1.2rem 0;
+}
+
+.form .form-text {
+  display: block;
+  margin-top: 0.3rem;
+  color: #888;
+}
+
+.form input[type="text"],
+.form input[type="email"],
+.form input[type="password"],
+.form input[type="date"],
+.form select,
+.form textarea {
+  display: block;
+  width: 100%;
+  padding: 0.4rem;
+  font-size: 1.2rem;
+  border: 1px solid #ccc;
+}
+
+.form input[type="submit"],
+button {
+  font: inherit;
+}
+
+.nav-heading {
+  padding-left: 30px;
+  font-size: 30px;
+}
+.nav-routes {
+  padding-left: 20px;
+}
+.navbar-brand {
+  color: white;
+}
+.nav-link {
+  color: white;
+}
+.top {
+  height: 800px;
+  background-color: #eae7d9;
+}
+.top-heading {
+  padding-left: 100px;
+  margin-top: 30px;
+  font-size: 70px;
+  color: #000839;
+}
+.top-para {
+  padding-left: 100px;
+  margin-top: 30px;
+  font-size: 30px;
+}
+.button {
+  margin-left: 100px;
+}
+
+.img-two {
+  padding-top: 40px;
+}
+
+.middle {
+  background-color: #f5b971;
+}
+.bottom {
+  background-color: #f5b971;
+}
+.Middle-heading {
+  padding-left: 100px;
+  padding-top: 30px;
+  font-size: 30px;
+  color: #231903;
+}
+.cards {
+  padding-left: 100px;
+  margin-top: 30px;
+}
+.card {
+  margin-left: 30px;
+}
+.Bottom-heading {
+  padding-left: 100px;
+  padding-top: 30px;
+  font-size: 50px;
+  color: #231903;
+}
+
+#testimonials {
+  background-color: #eae7d9;
+}
+
+.testimonial-text {
+  font-size: 2rem;
+  line-height: 1.5;
+  font-family: cursive;
+  font-style: italic;
+  color: #202040;
+}
+
+.testimonial-image {
+  width: 40%;
+  border-radius: 50%;
+  margin: 20px;
+}
+
+#press {
+  background-color: #ef8172;
+  padding-bottom: 3%;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+.footer-para {
+  text-align: center;
+  color: white;
+}
+.white-section {
+  height: 150px;
+  background-color: #000000;
+}
+.icons {
+  text-align: center;
+  color: white;
+}
+.loginheding {
+  text-align: center;
+}
+.login {
+  color: #1eb2a6;
+}
